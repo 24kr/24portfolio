@@ -21,7 +21,7 @@ const Sidebar = ({ showSidebar, setShowSidebar, activeSection }) => {
       >
         <nav className="nav relative h-full py-8">
           {/* Logo - Hidden on mobile */}
-          <div className="nav-logo absolute top-8 left-0 right-0 w-10 h-10 bg-skin rounded-full flex items-center justify-center mx-auto hidden lg:flex">
+          <div className="nav-logo absolute top-8 left-0 right-0 w-10 h-10 bg-skin rounded-full items-center justify-center mx-auto hidden lg:flex">
             <a href="#home" className="nav-logo-text text-lg font-bold text-title">
               24
             </a>
