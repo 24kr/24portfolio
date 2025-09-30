@@ -29,6 +29,9 @@ h1, h2, h3 {
   color: var(--color-title);
   font-weight: 600;
 }
+.home-img {
+ display: none;
+}
 
 /* Button styles */
 .button {
